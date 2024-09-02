@@ -1,5 +1,7 @@
-# beacontaxes
-analyze annual tax rolls 
+# City of Beacon Tax Assessment Analysis
+Analyze annual tax rolls 
 
+Disclaimer: This is work in progress based on public data
 
-WORK IN PROGRESS BASED ON PUBLIC DATA
+# Links
+[Overview of the assessment roll](https://www.tax.ny.gov/pubs_and_bulls/orpts/tentasmtroll.htm)
