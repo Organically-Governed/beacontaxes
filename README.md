@@ -12,3 +12,5 @@ Disclaimer: This is work in progress based on public data
 
 [The Impact of Kingston’s Homestead Tax System
 on Kingston’s Economic Development](https://www.townofossining.com/cms/assessment-information/106-the-impact-of-kingston-homestead-tax-final-03-25-14-jbtc/file)
+
+[1973-2024 Tax Rates and Assessments by Property Class PDFs](https://www.dutchessny.gov/Departments/Real-Property-Tax/RPT-Tax-Rates-in-Dutchess-County.htm)
